@@ -1,13 +1,16 @@
 # 🧠 Artificial Intelligence Roadmap
 <p align="center">
   <a href="README.md">
-    <img src="https://img.shields.io/badge/Language-English-blue">
+    <img src="https://img.shields.io/badge/Language-English-blue" alt="English">
   </a>
   <a href="README_ES.md">
-    <img src="https://img.shields.io/badge/Idioma-Español-red">
+    <img src="https://img.shields.io/badge/Idioma-Español-red" alt="Español">
   </a>
   <a href="README_PT.md">
-    <img src="https://img.shields.io/badge/Idioma-Português-green">
+    <img src="https://img.shields.io/badge/Idioma-Português-green" alt="Português">
+  </a>
+  <a href="README_FR.md">
+    <img src="https://img.shields.io/badge/Langue-Français-blueviolet" alt="Français">
   </a>
 </p>
 
