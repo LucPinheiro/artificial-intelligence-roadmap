@@ -1,4 +1,9 @@
 # 🧠 Artificial Intelligence Roadmap
+<p align="center">
+  <a href="README.md">🇬🇧 English</a> |
+  <a href="README_ES.md">🇪🇸 Español</a> |
+  <a href="README_PT.md">🇧🇷 Português</a>
+</p>
 
 > Complete roadmap covering Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Generative AI, LLMs, RAG and AI Agents.
 
