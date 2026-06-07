@@ -1,8 +1,14 @@
 # 🧠 Artificial Intelligence Roadmap
 <p align="center">
-  <a href="README.md">🇬🇧 English</a> |
-  <a href="README_ES.md">🇪🇸 Español</a> |
-  <a href="README_PT.md">🇧🇷 Português</a>
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/Language-English-blue">
+  </a>
+  <a href="README_ES.md">
+    <img src="https://img.shields.io/badge/Idioma-Español-red">
+  </a>
+  <a href="README_PT.md">
+    <img src="https://img.shields.io/badge/Idioma-Português-green">
+  </a>
 </p>
 
 > Complete roadmap covering Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Generative AI, LLMs, RAG and AI Agents.
