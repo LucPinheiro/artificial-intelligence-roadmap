@@ -121,6 +121,19 @@ By completing this roadmap, you will be able to:
 - Training recommendation systems.
 - HR process automation.
 
+## Education
+
+- Personalized learning.
+- Intelligent tutoring systems.
+- Automatic assessment and grading.
+- Learning analytics.
+- Student performance prediction.
+- Adaptive learning platforms.
+- Content generation for courses.
+- AI teaching assistants.
+- Educational chatbots.
+- Training recommendation systems.
+
 ## Finance
 
 - Fraud detection.
