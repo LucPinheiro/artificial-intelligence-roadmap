@@ -12,337 +12,67 @@ The roadmap starts with the fundamentals of AI and Machine Learning and progress
 
 ---
 
+# 🗂 Repository Structure
+
+## Fundamentals
+
+* [01 - Fundamentals of AI](./01-fundamentals-of-ai/)
+* [02 - Python for Machine Learning](./02-python-for-machine-learning/)
+
+## Machine Learning
+
+* [03 - Linear Regression](./03-linear-regression/)
+* [04 - Logistic Regression](./04-logistic-regression/)
+* [05 - K-Nearest Neighbors (KNN)](./05-knn/)
+* [06 - Decision Trees](./06-decision-trees/)
+* [07 - Random Forest](./07-random-forest/)
+* [08 - K-Means](./08-k-means/)
+
+## Deep Learning
+
+* [09 - Neural Networks](./09-neural-networks/)
+* [10 - Deep Learning](./10-deep-learning/)
+
+## Computer Vision
+
+* [11 - OpenCV](./11-opencv/)
+* [13 - YOLO](./13-yolo/)
+
+## Generative AI
+
+* [14 - Generative AI](./14-generative-ai/)
+* [15 - Large Language Models (LLMs)](./15-llm/)
+* [16 - Retrieval-Augmented Generation (RAG)](./16-rag/)
+* [17 - AI Agents](./17-ai-agents/)
+
+## Additional Resources
+
+* [Assets](./assets/)
+* [PDF Resources](./pdf/)
+
+---
+
 # 🚀 Learning Roadmap
 
-## 1️⃣ Fundamentals of Artificial Intelligence
-
-### Main Concepts
-
-* What is Artificial Intelligence?
-* Difference between AI, Machine Learning and Deep Learning.
-* Supervised Learning.
-* Unsupervised Learning.
-* Reinforcement Learning.
-
-### Real Examples
-
-* Netflix movie recommendations.
-* Gmail spam detection.
-* Google Maps traffic prediction.
-
----
-
-## 2️⃣ Python for Machine Learning
-
-### Essential Libraries
-
-* NumPy
-* Pandas
-* Matplotlib
-* Scikit-Learn
-
-### Applications
-
-* Data manipulation.
-* Data analysis.
-* Data visualization.
-* Model training.
-
----
-
-## 3️⃣ Linear Regression
-
-### Applications
-
-* Price prediction.
-* Sales forecasting.
-* Cost estimation.
-* Business forecasting.
-
-### Concepts
-
-* Input Variable (X)
-* Linear Function
-* Prediction (Y)
-
----
-
-## 4️⃣ Logistic Regression
-
-### Applications
-
-* Medical diagnosis.
-* Fraud detection.
-* Spam detection.
-* Binary classification.
-
-### Binary Classification
-
-* Yes / No
-* True / False
-* 0 / 1
-* Healthy / Sick
-
----
-
-## 5️⃣ K-Nearest Neighbors (KNN)
-
-### Applications
-
-* Data classification.
-* Recommendation systems.
-* Pattern recognition.
-
-### Concepts
-
-* Distance measurement.
-* Nearest neighbors.
-* Majority voting.
-
----
-
-## 6️⃣ Decision Trees
-
-### Applications
-
-* Risk assessment.
-* Medical diagnosis.
-* Customer classification.
-* Business decision-making.
-
-### Advantages
-
-* Easy to understand.
-* Highly visual.
-* Interpretable.
-
----
-
-## 7️⃣ Random Forest
-
-### Concepts
-
-* Ensemble of Decision Trees.
-* Voting system.
-* Higher accuracy.
-* Reduced overfitting.
-
-### Applications
-
-* Business prediction.
-* Advanced classification.
-* Industrial Machine Learning.
-
----
-
-## 8️⃣ K-Means Clustering
-
-### Concepts
-
-* Unsupervised Learning.
-* Clustering.
-* Centroid calculation.
-* Data segmentation.
-
-### Applications
-
-* Customer segmentation.
-* Product grouping.
-* Marketing.
-* Behavioral analysis.
-
----
-
-## 9️⃣ Neural Networks
-
-### Components
-
-* Input Layer.
-* Hidden Layers.
-* Output Layer.
-* Artificial Neurons.
-
-### Applications
-
-* Voice recognition.
-* Facial recognition.
-* Intelligent systems.
-
----
-
-## 🔟 Deep Learning
-
-### Description
-
-Advanced branch of Machine Learning based on deep neural networks.
-
-### Frameworks
-
-* TensorFlow
-* Keras
-* PyTorch
-
-### Applications
-
-* Image recognition.
-* Voice recognition.
-* Natural Language Processing.
-* Autonomous vehicles.
-* Intelligent chatbots.
-* Advanced prediction.
-
-### Examples
-
-* ChatGPT
-* DALL-E
-* Midjourney
-* Gemini
-* Claude
-
----
-
-## 1️⃣1️⃣ OpenCV
-
-### Description
-
-Open-source computer vision library for image and video processing.
-
-### Features
-
-* Image processing.
-* Video processing.
-* Edge detection.
-* Face detection.
-* Real-time computer vision.
-
-### Applications
-
-* Security systems.
-* Smart cameras.
-* Robotics.
-* Industrial automation.
-
----
-
-## 1️⃣2️⃣ Computer Vision
-
-### Description
-
-Field of Artificial Intelligence that enables machines to interpret images and videos.
-
-### Applications
-
-* Facial recognition.
-* License plate recognition.
-* Medical image analysis.
-* Industrial quality control.
-* Video surveillance.
-
----
-
-## 1️⃣3️⃣ YOLO
-
-### You Only Look Once
-
-Real-time object detection model based on Deep Learning.
-
-### Applications
-
-* People detection.
-* Vehicle detection.
-* Animal detection.
-* Security systems.
-* Autonomous driving.
-
----
-
-## 1️⃣4️⃣ Generative AI
-
-### Description
-
-Technology capable of generating new content.
-
-### Content Types
-
-* Text
-* Images
-* Audio
-* Video
-* Code
-
-### Tools
-
-* ChatGPT
-* Gemini
-* Claude
-* Copilot
-* Midjourney
-* DALL-E
-
----
-
-## 1️⃣5️⃣ Large Language Models (LLMs)
-
-### Concepts
-
-* Transformers
-* Tokens
-* Context Window
-* Embeddings
-* Fine-Tuning
-* Prompt Engineering
-
-### Models
-
-* GPT
-* Claude
-* Gemini
-* Llama
-* Mistral
-
-### Applications
-
-* Chatbots
-* Virtual Assistants
-* Content Generation
-* AI Coding Assistants
-
----
-
-## 1️⃣6️⃣ RAG (Retrieval-Augmented Generation)
-
-### Concepts
-
-* Embeddings
-* Semantic Search
-* Vector Databases
-* Knowledge Bases
-
-### Applications
-
-* Enterprise Chatbots.
-* Internal Documentation.
-* Technical Support.
-* Intelligent ERP Systems.
-
----
-
-## 1️⃣7️⃣ AI Agents
-
-### Concepts
-
-* Planning.
-* Memory.
-* Tool Usage.
-* Autonomous Decision-Making.
-* MCP (Model Context Protocol).
-
-### Applications
-
-* Business Automation.
-* Customer Service.
-* Document Management.
-* Enterprise Assistants.
+| Module | Topic                                |
+| ------ | ------------------------------------ |
+| 01     | Fundamentals of AI                   |
+| 02     | Python for Machine Learning          |
+| 03     | Linear Regression                    |
+| 04     | Logistic Regression                  |
+| 05     | K-Nearest Neighbors (KNN)            |
+| 06     | Decision Trees                       |
+| 07     | Random Forest                        |
+| 08     | K-Means                              |
+| 09     | Neural Networks                      |
+| 10     | Deep Learning                        |
+| 11     | OpenCV                               |
+| 12     | Computer Vision                      |
+| 13     | YOLO                                 |
+| 14     | Generative AI                        |
+| 15     | Large Language Models (LLMs)         |
+| 16     | Retrieval-Augmented Generation (RAG) |
+| 17     | AI Agents                            |
 
 ---
 
