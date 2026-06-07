@@ -98,47 +98,67 @@ By completing this roadmap, you will be able to:
 
 ## Sales
 
-* Sales forecasting.
-* Revenue prediction.
+- Sales forecasting.
+- Revenue prediction.
+- Customer behavior analysis.
+- Lead scoring.
 
 ## Marketing
 
-* Customer segmentation.
-* Product recommendation.
+- Customer segmentation.
+- Product recommendation.
+- Personalized campaigns.
+- Customer sentiment analysis.
 
 ## Human Resources
 
-* Candidate analysis.
-* Process automation.
+- Candidate screening and CV analysis.
+- Talent acquisition and recruitment.
+- Employee performance analysis.
+- Workforce planning.
+- Employee retention prediction.
+- Internal chatbot assistants.
+- Training recommendation systems.
+- HR process automation.
 
 ## Finance
 
-* Fraud detection.
-* Risk assessment.
+- Fraud detection.
+- Risk assessment.
+- Credit scoring.
+- Financial forecasting.
 
 ## Logistics
 
-* Route optimization.
-* Demand forecasting.
+- Route optimization.
+- Demand forecasting.
+- Supply chain optimization.
+- Inventory prediction.
 
 ## Healthcare
 
-* AI-assisted diagnosis.
-* Medical image analysis.
+- AI-assisted diagnosis.
+- Medical image analysis.
+- Patient monitoring.
+- Clinical decision support.
 
 ## Industry
 
-* Predictive maintenance.
-* Quality control.
+- Predictive maintenance.
+- Quality control.
+- Industrial automation.
+- Defect detection using Computer Vision.
 
 ## ERP & Odoo
 
-* Sales forecasting.
-* Purchase forecasting.
-* Inventory analysis.
-* Ticket classification.
-* Document automation.
-* Business process automation.
+- Sales forecasting.
+- Purchase forecasting.
+- Inventory analysis.
+- Ticket classification.
+- Document automation.
+- Customer service assistants.
+- Business process automation.
+- Intelligent reporting and analytics.
 
 ---
 
